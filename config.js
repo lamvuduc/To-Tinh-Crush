@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho chồng iu ne <3',
-    reply: '',
+    reply: 'hihi ilysm bbi <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Đêm nay anh qua đón nhé công chúa lên phố nhóe.',
     btnAccept: 'Okiiiii lun <3',
